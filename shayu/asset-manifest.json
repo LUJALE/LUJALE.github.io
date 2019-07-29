@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/shayu/static/css/main.f8676822.chunk.css",
+    "main.js": "/shayu/static/js/main.c17ce6b9.chunk.js",
+    "main.js.map": "/shayu/static/js/main.c17ce6b9.chunk.js.map",
+    "runtime~main.js": "/shayu/static/js/runtime~main.85d0232d.js",
+    "runtime~main.js.map": "/shayu/static/js/runtime~main.85d0232d.js.map",
+    "static/js/2.51ddb188.chunk.js": "/shayu/static/js/2.51ddb188.chunk.js",
+    "static/js/2.51ddb188.chunk.js.map": "/shayu/static/js/2.51ddb188.chunk.js.map",
+    "index.html": "/shayu/index.html",
+    "precache-manifest.95b24231d2b2af13f463ef98fa590ec2.js": "/shayu/precache-manifest.95b24231d2b2af13f463ef98fa590ec2.js",
+    "service-worker.js": "/shayu/service-worker.js",
+    "static/css/main.f8676822.chunk.css.map": "/shayu/static/css/main.f8676822.chunk.css.map",
+    "static/media/index.scss": "/shayu/static/media/add.f763e31b.png",
+    "static/media/shayu.jpg": "/shayu/static/media/shayu.bfac3bdb.jpg",
+    "static/media/welcome.png": "/shayu/static/media/welcome.2b64fcc4.png"
+  }
+}
